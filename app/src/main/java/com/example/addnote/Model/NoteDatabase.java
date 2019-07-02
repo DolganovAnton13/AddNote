@@ -1,4 +1,4 @@
-package com.example.addnote;
+package com.example.addnote.Model;
 
 import android.content.Context;
 import android.os.AsyncTask;

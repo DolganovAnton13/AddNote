@@ -1,4 +1,4 @@
-package com.example.addnote;
+package com.example.addnote.View;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -17,6 +17,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+import com.example.addnote.Model.Note;
+import com.example.addnote.Model.NoteAdapter;
+import com.example.addnote.ViewModel.NoteViewModel;
+import com.example.addnote.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import java.util.List;

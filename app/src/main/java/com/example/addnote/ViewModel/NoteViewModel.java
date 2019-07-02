@@ -1,10 +1,13 @@
-package com.example.addnote;
+package com.example.addnote.ViewModel;
 
 import android.app.Application;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
+
+import com.example.addnote.Model.Note;
+import com.example.addnote.Model.NoteRepository;
 
 import java.util.List;
 

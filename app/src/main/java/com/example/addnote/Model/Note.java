@@ -1,4 +1,4 @@
-package com.example.addnote;
+package com.example.addnote.Model;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;

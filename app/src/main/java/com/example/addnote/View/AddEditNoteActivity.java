@@ -1,4 +1,4 @@
-package com.example.addnote;
+package com.example.addnote.View;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,6 +12,7 @@ import android.widget.EditText;
 import android.widget.NumberPicker;
 import android.widget.Toast;
 
+import com.example.addnote.R;
 import com.google.android.material.snackbar.Snackbar;
 
 public class AddEditNoteActivity extends AppCompatActivity {

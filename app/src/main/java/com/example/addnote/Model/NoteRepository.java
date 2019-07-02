@@ -1,9 +1,13 @@
-package com.example.addnote;
+package com.example.addnote.Model;
 
 import android.app.Application;
 import android.os.AsyncTask;
 
 import androidx.lifecycle.LiveData;
+
+import com.example.addnote.Model.Note;
+import com.example.addnote.Model.NoteDao;
+import com.example.addnote.Model.NoteDatabase;
 
 import java.util.List;
 
